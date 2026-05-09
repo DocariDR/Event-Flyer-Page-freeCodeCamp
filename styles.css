@@ -1,8 +1,9 @@
 body {
+  width: 70vw;
+  max-width: 900px;
+  margin: 0 auto;
   padding-top: 50px;
   padding-bottom: 50px;
-  margin: 0 auto;
-  width: 70vw;
   min-height: calc(100vh - 100px);
 }
 
