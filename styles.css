@@ -18,6 +18,7 @@ section {
 }
 
 section ul {
+  list-style: '- ';
   text-align: left;
 }
 
